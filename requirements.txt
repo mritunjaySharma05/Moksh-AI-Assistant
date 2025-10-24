@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pyjokes
+requests
+gTTS
+playsound==1.2.2
+PyAudio
