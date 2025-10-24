@@ -20,7 +20,7 @@ OLLAMA_MODEL = "llama3"
 # --- IMPORTANT ---
 # Get your free API key from https://openweathermap.org/
 OPENWEATHER_API_KEY = "YOUR_OPENWEATHER_API_KEY" 
-DEFAULT_CITY = "Kangra"
+DEFAULT_CITY = "Kangra" #you can  add your city here 
 conversation_history = []
 
 # --- UI THEME ---
