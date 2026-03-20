@@ -150,7 +150,7 @@ http://localhost:8501
 ## 👤 Author
 
 **Mritunjay Sharma** — AI & ML Engineer  
-[GitHub](https://github.com/mritunjaySharma05) · [LinkedIn](https://linkedin.com/in/mritunjay-sharma)
+[GitHub](https://github.com/mritunjaySharma05) · [LinkedIn](https://linkedin.com/in/mritunjay-sharma05)
 
 ---
 
