@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+wikipedia
+pyjokes
+requests
+gtts
+playsound
+ollama
