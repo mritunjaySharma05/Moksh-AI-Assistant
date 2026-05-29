@@ -1,0 +1,34 @@
+# Moksh AI v3.0 — Python Dependencies
+# Install: pip install -r requirements.txt
+# Python 3.10+
+
+# ── Core ──────────────────────────────────────────────────────────────────────
+streamlit==1.57.0
+ollama==0.6.2
+faiss-cpu==1.13.2
+numpy==2.4.4
+sentence-transformers==5.4.1
+duckduckgo-search==8.1.1
+requests==2.33.1
+pillow==12.2.0
+
+# ── Optional: Cloud LLM fallback ─────────────────────────────────────────────
+google-generativeai==0.8.6
+
+# ── Optional: Voice input ────────────────────────────────────────────────────
+streamlit-mic-recorder==0.0.8
+faster-whisper==1.2.1
+
+# ── Optional: GPU inference (replace with torch==2.11.0+cu121 for CUDA) ──────
+torch==2.11.0
+
+# ── Transitive deps pinned for reproducibility ───────────────────────────────
+httpx==0.28.1
+pydantic==2.13.3
+pydantic-core==2.46.3
+uvicorn==0.46.0
+
+# ── Ollama (separate install — not a pip package) ────────────────────────────
+# Install from: https://ollama.com
+# Then: ollama pull llama3
+#       ollama pull llama3.2-vision
